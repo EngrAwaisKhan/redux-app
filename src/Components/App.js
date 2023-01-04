@@ -11,6 +11,7 @@ function App() {
         <br />
         <CounterInput />
       </div>
+      <h5>Created by M. Awais Khan</h5>
     </div>
   );
 }
